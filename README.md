@@ -129,7 +129,9 @@ parse_arg_list() → parse_arg(); while COMMA:
 # Тестовые примеры (скриншоты интерфейса программы, примеры анализа конкретных строк в программе).
 # test 1 
 <img width="435" height="193" alt="image" src="https://github.com/user-attachments/assets/5086fad4-0840-4814-b03d-8a484ef428de" />
+
 # test 2
 <img width="624" height="247" alt="image" src="https://github.com/user-attachments/assets/8e8f8e57-0d57-4f72-bb5c-56aaa3e344d7" />
+
 # test 3
 <img width="662" height="653" alt="image" src="https://github.com/user-attachments/assets/cf17e55a-eabe-4238-8cd5-d5e9919bf24e" />
