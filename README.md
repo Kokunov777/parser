@@ -1,5 +1,5 @@
-# часть 2 https://github.com/Kokunov777/lexical_analyzer_scanner
-# часть 4 
+### часть 2 https://github.com/Kokunov777/lexical_analyzer_scanner
+### часть 4 
 # Лабораторная работа 3: Разработка синтаксического анализатора (парсера)
 
 ## Цель работы
